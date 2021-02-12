@@ -1,0 +1,5 @@
+name: guillermo muñoz
+age: 23
+favorite color: green
+git init
+
